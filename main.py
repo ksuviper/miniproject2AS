@@ -2,6 +2,7 @@
 # Adam Staggenborg
 # Mini Project 2
 
+
 # (5/5 points) Initial comments with your name, class and project at the top of your .py file.
 # (5/5 points) Proper import of packages used.
 # (20/20 points) Using a data source of your choice, such as data from data.gov or using the Faker package, generate or retrieve some data for creating basic statistics on. This will generally come in as json data, etc.
